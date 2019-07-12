@@ -33,6 +33,9 @@
     </dependencies>
 
     <build>
+
+        <!--   试一下             -->
+        <defaultGoal>compile</defaultGoal>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
