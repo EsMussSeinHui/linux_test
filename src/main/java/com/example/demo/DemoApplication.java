@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class DemoApplication {
 
-    @RequestMapping("/gay")
+    @RequestMapping("/")
     public String fiest()
     {
         return "gay熊来啦";
