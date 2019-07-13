@@ -12,7 +12,7 @@ public class DemoApplication {
     @RequestMapping("/")
     public String fiest()
     {
-        return "gay熊来啦";
+        return "gay熊来啦!哈哈哈哈！测试上传github自动部署";
     }
 
     public static void main(String[] args) {
